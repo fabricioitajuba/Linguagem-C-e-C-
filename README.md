@@ -45,3 +45,5 @@ int main(){
 - Para compilar e executar, pressione o botão no canto superior direito com o nome "Run Code" ou "Ctrl+Alt+N";
 
 - Abaixo da tela, será aberto um terminal com a saída do programa.
+
+- obs: na pasta do projeto terá o arquivo fonte e o binário.
