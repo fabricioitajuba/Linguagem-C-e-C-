@@ -1,7 +1,7 @@
 # Linguagem-C-e-C-
 Exemplos de programas em C e C++
 
-# Instalação dos compiladores C e C++ no linux
+## Instalação dos compiladores C e C++ no linux
 
 - Crie uma pasta em um local específico para colocar os programas feitos em C ou C++;
 
@@ -11,7 +11,7 @@ $ sudo apt update
 
 $ sudo apt install gcc g++ clang gdb
 
-# Configurando o VSCODE
+## Configurando o VSCODE
 
 - Abra o VSCODE;
 
@@ -21,7 +21,7 @@ $ sudo apt install gcc g++ clang gdb
 
 - Direcione a pasta de projetos do VSCODE para a pasta criada anteriormente;
 
-# Criando um simples exemplo
+## Criando um simples exemplo
 
 - Crie uma nova pasta com o nome ex: EX01-Hello
 
