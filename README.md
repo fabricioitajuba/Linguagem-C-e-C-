@@ -1,5 +1,4 @@
-# Linguagem-C-e-C-
-Exemplos de programas em C e C++
+# Exemplos de programas em C e C++
 
 ## Instalação dos compiladores C e C++ no linux
 
