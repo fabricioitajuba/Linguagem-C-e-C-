@@ -47,3 +47,19 @@ int main(){
 - Abaixo da tela, será aberto um terminal com a saída do programa.
 
 - obs: na pasta do projeto terá o arquivo fonte e o binário.
+
+## Compilando e executando um program sem o VSCODE
+
+- Vá na pasta do programa;
+
+- Se for um programa feito em "C" digite a seguinte linha de comando:
+
+  $ gcc hello.c -o hello
+
+- Se for um programa feito em "C++" digite a seguinte linha de comando:
+
+  $ g++ hello.cpp -o hello
+
+- Para executar:
+
+- $ ./hello
