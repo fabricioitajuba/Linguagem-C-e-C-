@@ -29,7 +29,7 @@ $ sudo apt install gcc g++ clang gdb
 
 - Entre com o seguinte programa:
   
-´´´
+```
 #include <iostream>
 
 using namespace std;
@@ -39,7 +39,7 @@ int main(){
     cout<<"Hello World!"<<endl;
     return 0;
 }
-´´´
+```
 
 - Salve o arquivo;
 
