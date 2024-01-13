@@ -43,4 +43,6 @@ int main(){
 
 - Salve o arquivo;
 
-- Para compilar e executar, pressione o botão no canto superior direito com o nome "Run Code".
+- Para compilar e executar, pressione o botão no canto superior direito com o nome "Run Code" ou "Ctrl+Alt+N";
+
+- Abaixo da tela, será aberto um terminal com a saída do programa.
