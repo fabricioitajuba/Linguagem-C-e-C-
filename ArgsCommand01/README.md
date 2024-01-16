@@ -17,7 +17,7 @@ int main(int argc, char *argv[]){
     int resultado=0;
 
     for(int i=1; i<argc; i++){
-        resultado = resultado + atoi(argv[i]);
+        resultado += atoi(argv[i]);
     }
 
     cout << "A soma é = " << resultado << endl;
