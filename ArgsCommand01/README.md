@@ -32,7 +32,7 @@ $ g++ -o soma main.cpp
 
 ## Para executar:
 
-$ ./soma n1 n2 n3 .. nn
+$ ./soma n1 n2 n3 ... nn
 
 Alguns exemplos:
 
