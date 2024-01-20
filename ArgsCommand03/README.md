@@ -54,7 +54,9 @@ while( (opt = getopt(argc, argv, "abn:")) > 0 ) {
 "abn:"
 
 a - executa "case 'a'" sem entrada de argumento;
+
 b - executa "case 'b'" sem entrada de argumento;
+
 n: - executa "case 'n'" com entrada de argumento, no caso o nome;
 
 - Para compilar:
@@ -78,6 +80,7 @@ Escolhida a opção: -b
 $ ./comando -ab
 
 Escolhida a opção: -a
+
 Escolhida a opção: -b
 
 - Para executar - ex4:
@@ -91,5 +94,7 @@ Seu nome é: fabricio
 ./comando -abn 'fabricio'
 
 Escolhida a opção: -a
+
 Escolhida a opção: -b
+
 Seu nome é: fabricio
