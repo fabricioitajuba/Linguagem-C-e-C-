@@ -1,4 +1,4 @@
-# Comando em C++
+# Simples comando em C++
 
 - Para compilar:
 
