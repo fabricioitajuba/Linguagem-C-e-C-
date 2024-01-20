@@ -8,7 +8,7 @@ Este exemplo utiliza a função "getopt()"
 
 Programa:
 
-´´´
+```
 /*
 Criando comandos
 
@@ -45,7 +45,7 @@ int main(int argc, char **argv){
 
     return 0;
 }
-´´´
+```
 
 Na linha:
 
