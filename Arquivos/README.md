@@ -1,9 +1,9 @@
 # Operações em arquivos C++
 
 A biblioteca responsável por manipular arquivos é a:
-
+```
 #include <fstream>
-
+```
 Os arquivos podem ser do tipo:
 
 ## ofstream: 
