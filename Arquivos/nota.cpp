@@ -40,7 +40,7 @@ int main(){
         //Armazenando o nome:
         cout << "Entre com o nome: ";
         cin >> nome;
-        arquivo << nome << " - ";
+        arquivo << nome << " ";
 
         //Armazenando a nota:
         cout << "Entre com a nota: ";
@@ -48,7 +48,7 @@ int main(){
         arquivo << nota << endl;        
 
         //Finaliza a inserção
-        cout << "Entre com um novo nome? ";
+        cout << "Entrar com um novo nome? ";
         cin >> opc;
         //system("cls"); //Limpa a tela no windos
         system("clear"); //Limpa a tela no linux
